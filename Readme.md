@@ -120,4 +120,4 @@ jupyter notebook kaam_start.ipynb
 ## Contributors
 
 - **Aditya Upadhyay**
-- Under the guidance of **Dr. Saumya Yadav**
+- Under the guidance of **Dr. Saumya Yadav GOD**
