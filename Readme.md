@@ -55,10 +55,10 @@ GitHub: [Emotion Recognition Repository](https://github.com/op2adi/Saumya_Btp_wo
 
 | Model         | Accuracy | F1 Score | ROC AUC |
 |---------------|----------|----------|---------|
-| Random Forest | 0.742    | 0.739    | 0.952   |
-| Neural Network| 0.695    | 0.691    | 0.928   |
-| Simple CNN    | 0.711    | 0.708    | 0.936   |
-| Complex CNN   | 0.758    | 0.755    | 0.961   |
+| Random Forest | 0.692    | 0.673    | 0.947   |
+| Neural Network| 0.737    | 0.735    | 0.954   |
+| Simple CNN    | 0.715    | 0.714    | 0.942   |
+| Complex CNN   | 0.762    | 0.763    | 0.960   |
 
 ### Key Findings:
 - **Complex CNN with Batch Normalization** performed the best overall.
